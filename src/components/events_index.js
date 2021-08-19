@@ -38,6 +38,7 @@ class EventsIndex extends Component {
       right: 12,
       bottom: 12,
     };
+
     return (
       <>
         <FloatingActionButton
